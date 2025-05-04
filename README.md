@@ -14,10 +14,12 @@ Although this denial-of-service attack is nothing new, a lot of devices are stil
 
 ## 🚀 How to Flash
 1. Connect ESP8266 to your PC
-2. Run `ESP8266Flasher.exe`
-3. Load the `.bin` file from `firmware/`
-4. Choose the correct COM port
-5. Click **Flash**
+2. Download above Zip file
+3. Download above bin file
+4. Run ESP8266Flasher
+5. Load the `.bin` file from `firmware/`
+6. Choose the correct COM port
+7. Click **Flash**
 
 # Here are some quick links:
 - [ESP8266 Buy](https://deauther.com/docs/buy/)
