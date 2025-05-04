@@ -14,7 +14,7 @@ Although this denial-of-service attack is nothing new, a lot of devices are stil
 
 ## 🚀 How to Flash
 1. Connect ESP8266 to your PC
-2. Download above Zip file
+2. Download above nodemcu-flasher-master Zip file
 3. Download above bin file
 4. Run ESP8266Flasher
 5. Load the `.bin` file from `firmware/`
